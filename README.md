@@ -12,4 +12,4 @@ The app uses a **Gradio web interface** for quick, interactive predictions — n
 ✅ Displays air-quality category (Good / Moderate / Unhealthy etc.)  
 ✅ Built with **scikit-learn + Gradio**  
 ✅ Ready to deploy on **Hugging Face Spaces** or **GitHub Pages**  
-✅ Lightweight – runs locally or in the cloud
+✅ Lightweight – runs locally or in the cloud 
